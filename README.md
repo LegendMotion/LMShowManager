@@ -18,8 +18,12 @@ The system is designed to be used on both desktops, laptops, tablets and phones.
 
 
 ## Main Contributors
-Techognito - Backend coding
+Techognito - Backend coding \\
 Jan Helge Naley - Frond end and initial concept
+
+### Contributing
+If you wish to contribute you can do so by adding issues if you find bugs, or by sending a pull request for code you provide.
+
 
 ## LICENSE
 Currently all rights are reseved except for open source code used in the project
