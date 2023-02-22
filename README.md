@@ -1,4 +1,4 @@
-![Logo](logo.png)
+![Logo](Screenshots/logo.png)
 
 ## Information
 This is a system created to easier manage multiple shows in a festival. This system is designed for budget fesitvals and shows and is not a complete system for a big advanced festival.
