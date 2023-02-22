@@ -4,7 +4,7 @@
 <placeholder>
   
 ## darkmodejs
-[Github link](https://github.com/sandoche/Darkmode.js/blob/master/LICENSE](https://github.com/sandoche/Darkmode.js/blob/master/LICENSE)
+https://github.com/sandoche/Darkmode.js/blob/master/LICENSE
 
 The MIT License (MIT)
 
