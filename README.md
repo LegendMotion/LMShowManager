@@ -12,7 +12,7 @@ The UI was primarly written in Norwegian but we are planing to redo some of the 
 
 ## Dark mode support
 The system is designed with both a light and dark theme. The system will by default use theme after what is primary in the OS.
-
+![Darkmode](Screenshots/darkmode.png)
 ## Responsive
 The system is designed to be used on both desktops, laptops, tablets and phones.
 
